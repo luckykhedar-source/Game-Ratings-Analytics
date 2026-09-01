@@ -1,7 +1,7 @@
 \# Game Ratings Analytics — Analysis Report
 
 
-
+ 
 \## 1. Project Overview
 
 
